@@ -51,6 +51,7 @@ import (
 
 
 func main() {
+	fmt.Println("Hello world test")
+	fmt.Println(random.String(11))
 	fmt.Println("Hello world A b c")
-	fmt.Println(random.String(10))
 }
